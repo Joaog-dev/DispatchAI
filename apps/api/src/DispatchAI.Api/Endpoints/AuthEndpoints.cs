@@ -45,7 +45,7 @@ public static class AuthEndpoints
             return Results.Ok(response);
         });
 
-        group.MapPost("/register", [Authorize(Roles = RoleNames.Dispatcher)] async (
+        group.MapPost("/register", async (
             AuthRegisterRequest request,
             UserManager<AppUser> userManager,
             RoleManager<IdentityRole> roleManager) =>
