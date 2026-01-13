@@ -136,3 +136,4 @@ C:\Arasystem\DispatchAI\apps\api\src\DispatchAI.Api\bin\Debug\net8.0\Swashbuckle
 C:\Arasystem\DispatchAI\apps\api\src\DispatchAI.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Arasystem\DispatchAI\apps\api\src\DispatchAI.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Arasystem\DispatchAI\apps\api\src\DispatchAI.Api\obj\Debug\net8.0\DispatchAI.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Arasystem\DispatchAI\apps\api\src\DispatchAI.Api\obj\Debug\net8.0\DispatchAI.Api.sourcelink.json
