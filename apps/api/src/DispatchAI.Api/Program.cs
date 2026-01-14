@@ -87,11 +87,12 @@ app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapAuthEndpoints();
+app.MapLogisticsEndpoints();
 
 using (var scope = app.Services.CreateScope())
 {
     var db = scope.ServiceProvider.GetRequiredService<AppDbContext>();
-    db.Database.EnsureCreated();
+    db.Database.Migrate();
 
     var seeder = scope.ServiceProvider.GetRequiredService<SeedService>();
     await seeder.SeedAsync();

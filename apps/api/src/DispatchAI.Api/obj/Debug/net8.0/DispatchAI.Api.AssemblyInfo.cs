@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DispatchAI.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b7559df760a3f31a90a70850adb1e97ee8b6855")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8fd0a6594509a3c4bb0e6d1d2383155568f5fced")]
 [assembly: System.Reflection.AssemblyProductAttribute("DispatchAI.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DispatchAI.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
